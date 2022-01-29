@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Russo+One&display=swap');
+
+@font-face {
+    font-family: 'Tomatoes';
+    src: url('./../fonts/tomatoes.ttf');
+    src: local('☺'), url('./../fonts/tomatoes.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Galactic';
+    src: url('./../fonts/galactic.ttf');
+    src: local('☺'), url('./../fonts/galactic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+h2,h3 {
+    font-family: 'Russo One', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+}
